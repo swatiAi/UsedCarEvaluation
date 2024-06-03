@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Valuation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+        }
+        input[type="text"], input[type="number"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        input[type="button"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type="button"]:hover {
+            background-color: #218838;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            text-align: center;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Car Valuation</h1>
+        <form id="car-form">
+            <label for="make">Make:</label>
+            <input type="text" id="make" name="make">
+            <label for="model">Model:</label>
+            <input type="text" id="model" name="model">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age">
+            <label for="mileage">Mileage:</label>
+            <input type="number" id="mileage" name="mileage" step="0.01">
+            <label for="odo">ODO:</label>
+            <input type="number" id="odo" name="odo" step="1">
+            <label for="location">Location:</label>
+            <input type="text" id="location" name="location">
+            <label for="fuel">Fuel:</label>
+            <input type="text" id="fuel" name="fuel">
+            <label for="transmission">Transmission:</label>
+            <input type="text" id="transmission" name="transmission">
+            <label for="engine">Engine (CC):</label>
+            <input type="number" id="engine" name="engine">
+            <label for="power">Power (HP):</label>
+            <input type="number" id="power" name="power">
+            <label for="seats">Seats:</label>
+            <input type="number" id="seats" name="seats">
+            <label for="cp">Cost Price (CP):</label>
+            <input type="number" id="cp" name="cp">
+            <input type="button" value="Get Valuation" onclick="getValuation()">
+        </form>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        function getValuation() {
+            var carData = {
+                Car: $("#make").val() + ' ' + $("#model").val(),
+                Location: $("#location").val(),
+                Fuel: $("#fuel").val(),
+                Transmission: $("#transmission").val(),
+                ODO: parseFloat($("#odo").val()), // Ensure ODO is parsed correctly
+                Age: parseInt($("#age").val()), // Use the exact value from the Age field
+                Mileage: parseFloat($("#mileage").val()), // Ensure Mileage is parsed correctly
+                Engine: parseFloat($("#engine").val()),
+                Power: parseFloat($("#power").val()),
+                Seats: parseInt($("#seats").val()),
+                CP: parseFloat($("#cp").val())
+            };
+
+            $.ajax({
+                url: 'http://127.0.0.1:5000/predict',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(carData),
+                success: function(response) {
+                    $("#result").html("Estimated Sales Value: $" + response.prediction.toFixed(2));
+                },
+                error: function(error) {
+                    console.log(error);
+                    $("#result").html("Error fetching valuation. Please try again.");
+                }
+            });
+        }
+    </script>
+</body>
+</html>

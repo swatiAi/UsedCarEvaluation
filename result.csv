@@ -1,0 +1,191 @@
+Car,Location,Fuel,Transmission,ODO,Age,Mileage,Engine,Power,Seats,SP,CP
+Subaru Forester,Islamabad,Diesel,Manual,87000,12,20.77,1248.0,88.76,7.0,8000.0,15176.57
+Volkswagen Vento Diesel Comfortline,Karachi,Diesel,Manual,64430,11,20.54,1598.0,103.6,5.0,6933.0,16258.14
+Honda City 1.5 V AT Sunroof,Faislabad,Petrol,Automatic,60000,12,16.8,1497.0,116.3,5.0,5986.0,18750.41
+Land Rover Range Rover 2.2L Pure,Hyderabad,Diesel,Automatic,72000,10,12.7,2179.0,187.7,5.0,36000.0,65664.14
+Honda Amaze S i-Dtech,Multan,Diesel,Manual,58950,8,25.8,1498.0,98.6,5.0,7200.0,15631.57
+Renault Duster 85PS Diesel RxL Plus,Multan,Diesel,Manual,77469,10,20.45,1461.0,83.8,5.0,8453.0,14073.63
+Mercedes-Benz New C-Class C 220 CDI BE Avantgare,Peshawar,Diesel,Automatic,78500,10,14.84,2143.0,167.62,5.0,37333.0,65674.72
+Audi A6 2011-2015 35 TFSI Technology,Quetta,Petrol,Automatic,55985,9,13.53,1984.0,177.01,5.0,31333.0,79830.31
+Hyundai i20 1.2 Magna,Faislabad,Petrol,Manual,45807,14,18.5,1197.0,80.0,5.0,2493.0,7961.46
+Volkswagen Vento Petrol Highline AT,Faislabad,Petrol,Automatic,33000,14,14.4,1598.0,103.6,5.0,3800.0,13850.85
+Honda City Corporate Edition,Quetta,Petrol,Manual,51920,12,16.8,1497.0,116.3,5.0,5666.0,19832.3
+Nissan Micra Diesel XV,Abbottabad,Diesel,Manual,54000,12,19.80769230769231,1461.0,63.1,5.0,5666.0,12257.56
+Toyota Innova 2.5 V Diesel 7-seater,Quetta,Diesel,Manual,262000,17,12.8,2494.0,102.0,7.0,5333.0,17897.44
+Renault Duster 110PS Diesel RxZ Pack,Peshawar,Diesel,Manual,62000,11,19.01,1461.0,108.45,5.0,10333.0,18388.97
+Toyota Corolla Altis G,Hyderabad,Petrol,Manual,87615,12,14.53,1798.0,138.1,5.0,9000.0,24677.71
+Audi A6 2.7 TDI,Faislabad,Diesel,Automatic,35000,14,12.4,2698.0,179.5,5.0,15333.0,63986.5
+Mazda CX-5,Hyderabad,Petrol,Manual,52000,7,18.15,1198.0,82.0,5.0,6466.0,12844.13
+Mercedes-Benz M-Class ML 350 CDI,Karachi,Diesel,Automatic,85000,11,11.74,2987.0,254.8,5.0,37333.0,124888.62
+Volkswagen Polo Diesel Trendline 1.2L,Islamabad,Diesel,Manual,62000,11,22.07,1199.0,73.9,5.0,6666.0,12569.08
+Subaru Forester,Multan,Petrol,Manual,19698,10,25.4,624.0,37.5,4.0,2040.0,8861.09
+Honda Civic,Lahore,Diesel,Manual,22033,7,25.32,1198.0,77.0,6.0,7440.0,12520.56
+Hyundai i20 Magna Optional 1.2,Multan,Petrol,Manual,35487,10,18.5,1197.0,82.9,5.0,6320.0,11762.93
+Toyota Corolla Altis G AT,Quetta,Petrol,Automatic,52001,8,14.28,1798.0,138.03,5.0,13480.0,25126.07
+Audi A4 2.0 TDI 177 Bhp Premium Plus,Multan,Diesel,Automatic,13648,9,17.11,1968.0,174.33,5.0,28573.0,65538.44
+Nissan Leaf,Hyderabad,Diesel,Manual,52000,10,22.9,1248.0,74.0,5.0,5666.0,12872.93
+Mazda CX-5,Faislabad,Diesel,Manual,53000,10,17.8,1248.0,75.0,5.0,4400.0,9872.78
+Honda Civic,Hyderabad,Diesel,Manual,65650,11,28.4,1248.0,74.0,5.0,5133.0,12873.38
+Hyundai Grand i10 Sportz,Islamabad,Petrol,Manual,54000,9,18.9,1197.0,82.0,5.0,4800.0,12491.93
+Volkswagen Vento 2013-2015 1.6 Comfortline,Faislabad,Petrol,Manual,39000,9,15.04,1598.0,103.2,5.0,5320.0,15303.74
+Renault KWID RXT,Multan,Petrol,Manual,16542,7,25.17,799.0,53.3,5.0,4400.0,10173.68
+Hyundai i10 Asta,Faislabad,Petrol,Manual,32000,14,20.36,1197.0,78.9,5.0,2759.0,7961.46
+Nissan X-Trail SLX AT,Abbottabad,Diesel,Automatic,121812,14,11.40625,1995.0,147.6,5.0,10333.0,24570.84
+Subaru Forester,Abbottabad,Petrol,Manual,39300,14,18.2,998.0,67.1,5.0,3000.0,10800.3
+Ford Figo Diesel Titanium,Peshawar,Diesel,Manual,72000,14,20.0,1399.0,68.0,5.0,3666.0,9675.13
+Mercedes-Benz New C-Class C 200 CGI Avantgarde,Hyderabad,Petrol,Automatic,58000,9,11.74,1796.0,186.0,5.0,35600.0,64902.4
+Honda Civic,Islamabad,Diesel,Manual,178000,8,25.0,1396.0,69.0,5.0,3333.0,10232.54
+Subaru Forester,Karachi,Diesel,Manual,63000,8,24.52,1248.0,88.5,7.0,10866.0,14802.49
+Porsche Cayenne 2009-2014 Turbo,Quetta,Petrol,Automatic,73000,16,8.5,4806.0,500.0,5.0,19333.0,165411.48
+Subaru Forester,Quetta,Diesel,Manual,55729,9,15.1,2179.0,140.0,7.0,12866.0,25140.38
+Hyundai i10 Sportz 1.2 AT,Multan,Petrol,Automatic,45178,12,16.95,1197.0,78.9,5.0,4640.0,11896.77
+Toyota Innova 2.0 G1,Islamabad,Petrol,Manual,230000,18,12.4,1998.0,132.0,8.0,6000.0,24881.12
+Toyota Innova 2.5 VX 7 STR BSIV,Abbottabad,Diesel,Manual,104000,12,12.8,2494.0,102.0,7.0,15666.0,21121.13
+Honda Amaze SX i-VTEC,Multan,Petrol,Manual,54944,8,18.0,1198.0,86.7,5.0,6426.0,11729.07
+Ford Figo Diesel ZXI,Abbottabad,Diesel,Manual,70337,12,20.0,1399.0,68.0,5.0,3733.0,10736.41
+Honda City i VTEC E,Hyderabad,Petrol,Manual,52000,15,17.8,1497.0,117.3,5.0,4333.0,18483.17
+Hyundai i10 Sportz 1.2,Karachi,Petrol,Manual,95980,15,20.36,1197.0,78.9,5.0,3000.0,9075.51
+Hyundai Grand i10 Sportz,Peshawar,Petrol,Manual,16000,8,18.9,1197.0,82.0,5.0,7666.0,15205.58
+Honda Amaze SX i-VTEC,Quetta,Petrol,Manual,18949,8,17.8,1198.0,86.7,5.0,6666.0,14007.33
+Toyota Fortuner 4x2 Manual,Hyderabad,Diesel,Manual,107000,10,13.0,2982.0,168.5,7.0,22000.0,65425.81
+Audi A6 2011-2015 35 TDI Premium,Lahore,Diesel,Automatic,48367,6,17.68,1968.0,174.33,5.0,52773.0,69265.81
+Ford Ecosport 1.5 DV5 MT Titanium Optional,Hyderabad,Diesel,Manual,57000,11,22.7,1498.0,89.84,5.0,7333.0,12715.83
+Honda Civic,Hyderabad,Diesel,Manual,58000,10,15.1,2179.0,140.0,7.0,10800.0,24913.96
+Honda Amaze SX i-DTEC,Faislabad,Diesel,Manual,30000,9,25.8,1498.0,98.6,5.0,4666.0,15303.82
+Volkswagen Polo Diesel Highline 1.2L,Faislabad,Diesel,Manual,34212,11,22.07,1199.0,73.9,5.0,3720.0,10082.9
+Hyundai Verna Transform SX VGT CRDi,Chitral,Diesel,Manual,70002,14,16.2,1493.0,110.0,5.0,4600.0,17348.71
+Honda Civic,Peshawar,Petrol,Manual,62000,8,18.9,998.0,67.1,5.0,5933.0,11457.76
+Volkswagen Polo Petrol Highline 1.6L,Hyderabad,Petrol,Manual,62001,14,15.26,1598.0,103.5,5.0,3533.0,15542.97
+Hyundai i20 Asta 1.2,Quetta,Petrol,Manual,30180,10,18.5,1197.0,82.85,5.0,6200.0,14041.19
+Audi A4 3.0 TDI Quattro Premium,Faislabad,Diesel,Automatic,30000,14,14.94,2967.0,241.4,5.0,13066.0,122615.81
+Mazda CX-5,Lahore,Petrol,Manual,93850,14,14.0,796.0,35.0,5.0,3213.0,8511.72
+Hyundai Verna 1.6 SX CRDI (O) AT,Faislabad,Diesel,Automatic,40000,10,22.32,1582.0,126.32,5.0,7000.0,23722.06
+Toyota Corolla,Peshawar,Petrol,Manual,25500,10,25.4,624.0,37.5,4.0,2866.0,8637.51
+Honda Civic 2006-2010 1.8 V MT,Hyderabad,Petrol,Manual,71088,14,13.5,1799.0,130.0,5.0,4466.0,24401.86
+Toyota Innova 2.5 VX (Diesel) 7 Seater,Chitral,Diesel,Manual,55000,10,12.99,2494.0,100.6,7.0,14813.0,17537.92
+Volvo V40 Cross Country D3,Peshawar,Diesel,Automatic,32700,10,23.3,1984.0,150.0,5.0,26666.0,34395.39
+BMW 5 Series 2010-2013 525i,Quetta,Petrol,Automatic,128000,15,10.8,2497.0,215.0,5.0,9333.0,69868.69
+Nissan Leaf,Karachi,Petrol,Manual,43874,13,18.9,998.0,67.1,5.0,3266.0,7567.25
+Nissan Leaf,Lahore,Petrol,Automatic,32684,7,21.9,624.0,37.48,4.0,4306.0,10626.62
+Subaru Forester,Faislabad,Diesel,Manual,42000,10,12.05,2179.0,120.0,8.0,10333.0,18170.88
+Mercedes-Benz New C-Class 200 K AT,Faislabad,Petrol,Automatic,28352,15,11.7,1796.0,178.0,5.0,12466.0,63515.14
+Volkswagen Vento 1.5 TDI Comfortline AT,Karachi,Diesel,Automatic,55000,9,21.21,1498.0,103.2,5.0,9666.0,14791.96
+Honda Civic,Multan,Petrol,Manual,44285,7,20.73,1373.0,91.1,5.0,9960.0,14146.07
+Subaru Forester,Lahore,Petrol,Manual,30232,8,21.1,1197.0,85.8,5.0,7746.0,15096.03
+BMW 1 Series 118d Base,Lahore,Diesel,Automatic,31821,9,20.58,1995.0,143.0,5.0,22960.0,34371.92
+Honda Jazz 1.2 V CVT i VTEC,Quetta,Petrol,Automatic,12000,9,19.0,1199.0,88.7,5.0,8000.0,16700.33
+Honda Civic 2006-2010 1.8 V MT,Hyderabad,Petrol,Manual,88578,12,13.5,1799.0,130.0,5.0,5266.0,24853.2
+Mercedes-Benz New C-Class C 220 CDI Avantgarde,Multan,Diesel,Automatic,44965,10,19.27,2143.0,170.0,5.0,23933.0,65384.58
+Honda Amaze SX i-DTEC,Faislabad,Diesel,Manual,45044,10,25.8,1498.0,98.6,5.0,4933.0,15303.82
+Subaru Forester,Multan,Petrol,Manual,34204,8,22.0,1197.0,81.8,5.0,7240.0,11729.07
+Toyota Fortuner 3.0 Diesel,Lahore,Diesel,Manual,91235,12,11.5,2982.0,171.0,7.0,17986.0,63952.53
+Chevrolet Beat LT Option,Karachi,Petrol,Manual,38800,10,18.6,1199.0,76.8,5.0,3800.0,11205.45
+Skoda Rapid 1.5 TDI Elegance,Islamabad,Diesel,Manual,83000,11,21.14,1498.0,103.52,5.0,6333.0,16304.21
+Subaru Forester,Multan,Petrol,Manual,41283,6,20.73,1373.0,91.1,5.0,13200.0,17008.08
+Audi A4 2.0 TDI 177 Bhp Premium Plus,Lahore,Diesel,Automatic,48214,9,17.11,1968.0,174.33,5.0,31093.0,65652.25
+Toyota Corolla,Islamabad,Diesel,Manual,35000,8,22.9,1248.0,74.0,5.0,8333.0,14772.41
+Mercedes-Benz S Class 2005 2013 S 500,Faislabad,Petrol,Automatic,35277,14,7.81,5461.0,362.9,5.0,40000.0,123908.38
+Skoda Rapid 1.5 TDI AT Elegance Plus Black Package,Lahore,Diesel,Automatic,54620,8,21.66,1498.0,103.52,5.0,13146.0,17663.9
+Skoda Superb Elegance 2.0 TDI CR AT,Karachi,Diesel,Automatic,136997,12,17.2,1968.0,138.1,5.0,11333.0,25352.16
+Hyundai EON Magna Plus,Multan,Petrol,Manual,14322,5,21.1,814.0,55.2,5.0,5640.0,11767.44
+Volkswagen Polo Diesel Trendline 1.2L,Rawalpindi,Diesel,Manual,65634,12,22.07,1199.0,73.9,5.0,4666.0,12583.4
+Datsun GO NXT,Faislabad,Petrol,Manual,6000,8,20.63,1198.0,67.06,5.0,3333.0,9631.11
+Honda Brio S MT,Faislabad,Petrol,Manual,33280,11,19.4,1198.0,86.8,5.0,3186.0,7762.06
+Mercedes-Benz B Class B180,Hyderabad,Petrol,Automatic,29000,11,14.8,1595.0,120.7,5.0,15000.0,22131.3
+Honda City i DTEC V,Multan,Diesel,Manual,42831,9,26.0,1498.0,98.6,5.0,9480.0,14194.6
+Toyota Innova 2.5 G (Diesel) 7 Seater,Chitral,Diesel,Manual,90000,8,12.99,2494.0,100.6,7.0,14533.0,17537.92
+Nissan Leaf,Chitral,Petrol,Manual,24005,7,20.4,1197.0,81.8,5.0,8266.0,14626.52
+Toyota Corolla,Quetta,Diesel,Manual,32792,12,15.1,2179.0,140.0,7.0,10533.0,24770.24
+Ford Ecosport 1.5 DV5 MT Ambiente,Multan,Diesel,Manual,147898,10,22.7,1498.0,89.84,5.0,5893.0,11776.28
+Toyota Fortuner 4x2 Manual,Quetta,Diesel,Manual,131765,12,13.0,2982.0,168.5,7.0,18000.0,70535.67
+Volkswagen Vento 1.5 Highline Plus AT 16 Alloy,Islamabad,Diesel,Automatic,65000,11,21.5,1498.0,108.5,5.0,8333.0,18533.53
+BMW X5 xDrive 30d,Quetta,Diesel,Automatic,41000,9,15.3,2993.0,258.0,5.0,60000.0,128511.77
+Mercedes-Benz New C-Class C 220 CDI Style,Lahore,Diesel,Automatic,23550,7,19.27,2143.0,167.62,5.0,44879.0,69265.81
+Hyundai i10 Magna 1.2,Hyderabad,Petrol,Manual,60000,11,20.36,1197.0,78.9,5.0,3666.0,11862.2
+Mercedes-Benz GLC 220,Peshawar,Diesel,Automatic,44414,8,17.9,2143.0,170.0,5.0,56666.0,69287.72
+Hyundai i20 Asta 1.4 CRDi,Peshawar,Diesel,Manual,29000,10,22.54,1396.0,88.73,5.0,11133.0,14831.88
+Audi A6 2011-2015 2.0 TDI Premium Plus,Quetta,Diesel,Automatic,40000,10,17.68,1968.0,174.33,5.0,30600.0,80597.02
+Chevrolet Beat Diesel LT,Rawalpindi,Diesel,Manual,88000,12,25.44,936.0,57.6,5.0,2000.0,8923.05
+Skoda Superb Elegance 1.8 TSI AT,Multan,Petrol,Automatic,53537,12,13.7,1798.0,157.75,5.0,9186.0,38035.86
+Chevrolet Optra Magnum 1.6 LS BS3,Rawalpindi,Petrol,Manual,118500,17,12.9,1598.0,102.5,5.0,1666.0,12109.88
+Volkswagen Polo Diesel Highline 1.2L,Abbottabad,Diesel,Manual,63000,12,22.07,1199.0,73.9,5.0,5600.0,12593.21
+Renault Lodgy 110PS RxZ 8 Seater,Quetta,Diesel,Manual,25000,9,19.98,1461.0,108.5,8.0,9000.0,18921.06
+Mercedes-Benz E-Class E250 CDI Avantgrade,Peshawar,Diesel,Automatic,37382,10,13.0,2143.0,201.1,5.0,42666.0,69287.72
+Hyundai Verna 1.6 SX,Hyderabad,Diesel,Manual,62000,12,22.32,1582.0,126.32,5.0,6133.0,24753.64
+Hyundai i10 Magna 1.1,Multan,Petrol,Manual,52340,7,19.81,1086.0,68.05,5.0,5386.0,10944.81
+Mazda CX-5,Multan,Diesel,Manual,56739,8,15.4,1997.0,120.0,7.0,13746.0,21377.12
+Land Rover Range Rover 2.2L Dynamic,Lahore,Diesel,Automatic,36091,6,12.7,2179.0,187.7,5.0,74346.0,67605.54
+Ford Figo Diesel ZXI,Islamabad,Diesel,Manual,120000,14,20.0,1399.0,68.0,5.0,3466.0,9663.05
+Hyundai i10 Magna,Rawalpindi,Petrol,Manual,43571,9,20.36,1197.0,78.9,5.0,4733.0,12567.27
+Honda Amaze S i-Dtech,Faislabad,Diesel,Manual,50000,11,25.8,1498.0,98.6,5.0,4333.0,13489.63
+Skoda Laura Ambiente,Abbottabad,Diesel,Manual,113000,16,17.5,1896.0,106.0,5.0,6000.0,19318.33
+Renault Duster 85PS Diesel RxL,Hyderabad,Diesel,Manual,90000,10,19.87,1461.0,83.8,5.0,7133.0,12837.58
+Hyundai i20 Asta Option 1.2,Multan,Petrol,Manual,61012,8,18.6,1197.0,81.83,5.0,8000.0,14470.82
+Skoda Fabia 1.4 MPI Ambiente,Rawalpindi,Petrol,Manual,87459,15,14.7,1390.0,85.0,5.0,3666.0,11027.7
+Toyota Corolla,Karachi,Petrol,Manual,70500,14,15.64,1193.0,64.1,5.0,2000.0,8335.94
+Audi Q3 2012-2015 35 TDI Quattro Premium Plus,Hyderabad,Diesel,Automatic,64103,9,15.73,1968.0,174.33,5.0,26533.0,65427.54
+Skoda Octavia Elegance 1.8 TSI AT,Quetta,Petrol,Automatic,76000,10,14.7,1798.0,177.5,5.0,13333.0,70054.24
+Toyota Etios Liva GD SP,Hyderabad,Diesel,Manual,104000,10,23.59,1364.0,67.06,5.0,4000.0,10297.18
+Mercedes-Benz B Class B180,Multan,Petrol,Automatic,37245,10,14.8,1595.0,120.7,5.0,15946.0,25418.0
+Renault Duster 85PS Diesel RxL Optional,Quetta,Diesel,Manual,30000,10,20.46,1461.0,83.8,5.0,7933.0,16734.3
+Subaru Forester,Quetta,Petrol,Automatic,8500,8,20.51,998.0,67.0,5.0,5626.0,13090.62
+Mercedes-Benz New C-Class C250 Avantgarde,Faislabad,Petrol,Automatic,30500,14,11.74,1796.0,186.0,5.0,14000.0,63470.09
+Audi A8 L 3.0 TDI quattro,Hyderabad,Diesel,Automatic,56000,12,11.8,2967.0,246.7,5.0,60000.0,128510.01
+Skoda Rapid 1.6 MPI AT Style Black Package,Quetta,Petrol,Automatic,10500,7,14.3,1598.0,103.52,5.0,11866.0,16160.96
+Hyundai i20 Active 1.2 SX,Lahore,Petrol,Manual,25166,6,17.19,1197.0,81.86,5.0,10960.0,14792.19
+Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Lahore,Diesel,Automatic,29161,6,19.27,2143.0,167.62,5.0,52546.0,69265.81
+Ford Figo Diesel,Peshawar,Diesel,Manual,70436,9,0.0,1498.0,99.0,0.0,4800.0,16311.22
+Volkswagen Polo Diesel Comfortline 1.2L,Quetta,Diesel,Manual,45000,12,22.07,1199.0,73.9,5.0,4800.0,14202.5
+Honda Civic,Abbottabad,Diesel,Manual,64000,8,22.9,1248.0,74.0,5.0,9066.0,14759.02
+Ford Figo Diesel EXI,Faislabad,Diesel,Manual,41284,12,20.0,1399.0,68.05,5.0,3333.0,9629.58
+Hyundai i20 1.2 Magna Executive,Multan,Petrol,Manual,14960,6,18.6,1197.0,81.83,5.0,8360.0,14079.51
+Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Multan,Diesel,Automatic,55980,9,19.27,2143.0,167.62,5.0,24160.0,65384.58
+Chevrolet Beat Diesel LT,Quetta,Diesel,Manual,74000,11,25.44,936.0,57.6,5.0,3533.0,12212.62
+Hyundai i20 Sportz 1.4 CRDi,Multan,Diesel,Manual,56847,9,22.54,1396.0,88.73,5.0,9600.0,14080.8
+Toyota Innova 2.5 Z Diesel 7 Seater,Lahore,Diesel,Manual,121374,9,12.99,2494.0,100.6,7.0,19066.0,21086.12
+Toyota Corolla,Islamabad,Diesel,Manual,52000,11,20.77,1248.0,88.76,7.0,9200.0,14595.0
+Toyota Innova 2.5 V Diesel 7-seater,Quetta,Diesel,Manual,118000,10,12.8,2494.0,102.0,7.0,14333.0,18718.61
+Honda City i VTEC V,Multan,Petrol,Manual,33915,8,17.8,1497.0,117.3,5.0,10786.0,18791.88
+BMW X1 sDrive20d,Chitral,Diesel,Automatic,82002,10,17.05,1995.0,184.0,5.0,24666.0,65437.3
+Hyundai Grand i10 CRDi Era,Quetta,Diesel,Manual,33000,7,24.0,1120.0,70.0,5.0,6333.0,13616.67
+Honda Civic,Islamabad,Diesel,Manual,34000,8,28.09,1248.0,88.5,5.0,11266.0,14828.98
+Skoda Rapid Leisure 1.6 TDI MT,Faislabad,Diesel,Manual,55000,12,20.5,1598.0,103.6,5.0,4666.0,15303.82
+Hyundai Accent CRDi,Multan,Diesel,Manual,160538,18,13.1,1493.0,82.0,5.0,2400.0,8502.25
+Honda Jazz 1.2 VX i VTEC,Lahore,Petrol,Manual,49575,7,18.7,1199.0,88.7,5.0,9560.0,14561.16
+Hyundai i10 Era,Rawalpindi,Petrol,Manual,83000,14,19.81,1086.0,68.05,5.0,2333.0,7583.49
+Hyundai Tucson 2.0 e-VGT 2WD AT GLS,Multan,Diesel,Automatic,51346,6,16.38,1995.0,183.0,5.0,29320.0,65538.44
+Mazda CX-5,Rawalpindi,Petrol,Manual,35000,13,19.7,796.0,35.0,5.0,2466.0,8612.5
+Hyundai Grand i10 Magna,Quetta,Petrol,Manual,16514,10,18.9,1197.0,82.0,5.0,5000.0,14041.64
+Subaru Forester,Karachi,Diesel,Manual,120000,12,22.9,1248.0,74.0,5.0,5000.0,12581.03
+Hyundai i20 1.2 Sportz,Quetta,Petrol,Manual,52000,14,17.0,1197.0,80.0,5.0,3733.0,12773.01
+Subaru Forester,Abbottabad,Diesel,Manual,88500,10,23.2,1248.0,73.94,5.0,5799.0,12593.21
+Hyundai Creta 1.6 CRDi SX,Peshawar,Diesel,Manual,28000,8,19.67,1582.0,126.2,5.0,18333.0,28639.55
+Subaru Forester,Karachi,Petrol,Manual,67000,14,19.0,998.0,66.1,5.0,2666.0,8598.44
+Renault Duster 110PS Diesel RXZ Option,Hyderabad,Diesel,Manual,26000,8,19.64,1461.0,108.45,5.0,13333.0,21531.02
+Fiat Grande Punto 1.3 Emotion Pack (Diesel),Hyderabad,Diesel,Manual,120000,14,17.8,1248.0,76.0,5.0,2200.0,9007.95
+BMW X3 xDrive30d M Sport,Lahore,Diesel,Automatic,51982,7,16.55,2993.0,258.0,5.0,61026.0,126828.91
+Toyota Innova 2.5 G4 Diesel 7-seater,Karachi,Diesel,Manual,47000,8,12.8,2494.0,102.0,7.0,17066.0,21118.85
+Subaru Forester,Quetta,Petrol,Manual,60000,22,17.3,993.0,60.0,5.0,733.0,9919.84
+Mazda CX-5,Abbottabad,Diesel,Manual,31025,6,28.4,1248.0,74.0,5.0,9533.0,14769.22
+Toyota Corolla,Rawalpindi,Diesel,Manual,73000,12,23.4,1248.0,74.0,5.0,5799.0,12582.95
+Subaru Forester,Multan,Petrol,Manual,32227,8,22.74,796.0,47.3,5.0,4346.0,10173.68
+Honda City 1.5 S MT,Rawalpindi,Petrol,Manual,55000,13,17.0,1497.0,118.0,5.0,5613.0,19728.76
+Audi Q7 3.0 TDI Quattro Technology,Multan,Diesel,Automatic,11287,6,12.07,2967.0,241.4,7.0,93813.0,126845.84
+Hyundai Verna 1.6 SX VTVT (O),Multan,Petrol,Manual,54308,12,17.1,1591.0,121.3,5.0,5706.0,18992.86
+Honda City 1.5 V AT,Rawalpindi,Petrol,Automatic,78442,15,16.8,1497.0,118.0,5.0,4760.0,19724.24
+Hyundai i20 Magna Optional 1.4 CRDi,Faislabad,Diesel,Manual,46000,11,21.9,1396.0,88.8,5.0,4146.0,9877.13
+Hyundai i20 Sportz AT 1.4,Lahore,Petrol,Automatic,45051,10,15.0,1396.0,98.6,5.0,7946.0,15218.31
+Volkswagen Vento Diesel Highline,Abbottabad,Diesel,Manual,69000,13,20.54,1598.0,103.6,5.0,6266.0,16294.48
+Honda City i VTEC VX,Chitral,Petrol,Manual,49000,10,17.4,1497.0,117.3,5.0,9200.0,19206.16
+BMW 5 Series 2003-2012 520d,Karachi,Diesel,Automatic,64000,9,18.48,1995.0,177.0,5.0,37333.0,65630.65
+Subaru Forester,Hyderabad,Petrol,Manual,60000,15,18.9,1061.0,67.0,5.0,1800.0,7749.91
+Volkswagen Jetta 2007-2011 2.0 TDI Comfortline,Lahore,Diesel,Manual,58006,12,15.0,1896.0,105.0,5.0,8933.0,18690.41
+Hyundai i10 Magna 1.2,Abbottabad,Petrol,Manual,74000,14,20.36,1197.0,78.9,5.0,4133.0,12301.16
+Mercedes-Benz New C-Class C 220 CDI Avantgarde,Multan,Diesel,Automatic,77771,9,19.27,2143.0,170.0,5.0,24853.0,65384.58
+Hyundai i10 Magna 1.2 iTech SE,Karachi,Petrol,Manual,45275,12,20.36,1197.0,78.9,5.0,3733.0,11205.45
+Audi A6 2011-2015 2.0 TDI Technology,Multan,Diesel,Automatic,31652,9,17.68,1968.0,174.33,5.0,35706.0,65538.44
+Volkswagen Polo Petrol Trendline 1.2L,Quetta,Petrol,Manual,31978,9,16.47,1198.0,73.9,5.0,5186.0,14207.33
+Honda Civic,Abbottabad,Petrol,Manual,70000,13,20.92,998.0,67.1,5.0,2800.0,10819.84
+Honda Civic,Lahore,Diesel,Manual,59138,11,17.0,1405.0,70.0,5.0,3440.0,10136.98
+Audi A6 2011-2015 2.0 TDI Premium Plus,Multan,Diesel,Automatic,61726,10,17.68,1968.0,174.33,5.0,27693.0,65384.58
+Mercedes-Benz GLA Class 200 CDI SPORT,Hyderabad,Diesel,Automatic,48000,9,17.9,2143.0,136.0,5.0,27013.0,35080.61
